@@ -19,3 +19,6 @@ h3 {
     text-align: center;
     text-decoration: underline; /* change to hyperlink later */
 }
+.footer {
+    text-align: right;
+} 
